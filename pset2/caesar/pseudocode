@@ -1,0 +1,5 @@
+1. Get a key from the command line argument
+2. Validate the key and report error message when it is not valid
+3. Prompt the user to input text
+4. Encipher the text by preserving the case and non-alphabets
+5. Print the cipher text

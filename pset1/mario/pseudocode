@@ -1,0 +1,7 @@
+1. Take an input 'height' from the user
+2. Check that the input is positive and a number between 1 & 8.
+3. If step 2 is success GOTO step 4 or else go back to step 2.
+4. Print i number of hashes (where i = row number , starts with 1)
+5. Check whether row number is less than or equal to height
+6. If step 5 is success print a new line and GOTO step 4 or else GOTO step 7
+7. Exit
