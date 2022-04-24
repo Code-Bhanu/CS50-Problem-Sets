@@ -1,0 +1,23 @@
+.about{
+    font-family: Helvetica;
+}
+
+h1 {
+    color : Blue;
+}
+
+#name {
+    font-family : monspace;
+    font-size : 50px;
+    color : Red;
+    opacity : 2;
+}
+
+li :hover {
+    color : green;
+}
+
+h4 {
+    color : green;
+
+}
